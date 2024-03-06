@@ -1,5 +1,4 @@
 1.项目名称：运动健身
-
 2.小组的 GitHub 地址：https://github.com/cooking_paradise
 
 3.小组成员、分工及 GitHub 主页：

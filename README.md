@@ -1,6 +1,6 @@
 1.项目名称：爱跑步
 
-2.小组的 GitHub 地址：https://github.com/cooking_paradise
+2.小组的 GitHub 地址：[https://github.com/cooking_paradise](https://github.com/love-run/)
 
 3.小组成员、分工及 GitHub 主页：
 | 姓名 | 学号 |  GitHub | 分工 |

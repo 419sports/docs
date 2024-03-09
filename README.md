@@ -1,4 +1,4 @@
-1.项目名称：运动健身
+1.项目名称：爱跑步
 
 2.小组的 GitHub 地址：https://github.com/cooking_paradise
 

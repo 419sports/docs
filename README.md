@@ -18,5 +18,5 @@
 
 5.思维导图
 <div align="center">
-<img src=image.png width=60% alt="思维导图"> 
+<img src=Mind Mapping.png width=60% alt="思维导图"> 
 </div>
